@@ -1,3 +1,3 @@
 <template>
-  Page
+  <PCard />
 </template>
